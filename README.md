@@ -30,7 +30,7 @@ Edit
 
 📥 Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/motogp-riders-dashboard.git
+git clone https://github.com/AlphaKoder7/MotoGP_Dashboard.git
 cd motogp-riders-dashboard
 
 2. Install required libraries
