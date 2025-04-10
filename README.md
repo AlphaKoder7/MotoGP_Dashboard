@@ -18,16 +18,6 @@ pymongo (MongoDB Connector)
 
 CSV (Initial Data Source)
 
-📂 Project Structure
-graphql
-Copy
-Edit
-├── data_import.py           # Script to import RidersSummary.csv into MongoDB
-├── dashboard_app.py         # Streamlit app file (your dashboard code)
-├── RidersSummary.csv        # CSV file containing riders' performance data
-├── requirements.txt         # (Optional) List of dependencies
-└── README.md                # Project documentation
-
 📥 Setup Instructions
 1. Clone the repository
 git clone https://github.com/AlphaKoder7/MotoGP_Dashboard.git
